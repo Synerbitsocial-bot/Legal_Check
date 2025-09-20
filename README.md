@@ -1,10 +1,12 @@
 ### LegalCheck-001-25
 
 ```
-Considerando que, la compra de USDT como inventario se clasifica en la contabilidad como "Inventarios – Criptoactivos"
-bajo inventarios en el plan contable, no como servicios informáticos ni procesamiento de datos
-(no aplica a CIIU 6201, 6202, 6209, 6311), y que la actividad de Gestión de Servicios CrossBorder o de representación
-y gestión administrativa tampoco se encuentra dentro de las clasificaciones existentes, se recomienda revisar:
+Considerando que, la compra de USDT como inventario se clasifica en la contabilidad
+como "Inventarios – Criptoactivos" bajo inventarios en el plan contable, no como
+servicios informáticos ni procesamiento de datos (no aplica a CIIU 6201, 6202, 6209, 6311),
+y que la actividad de Gestión de Servicios CrossBorder o de representación
+y gestión administrativa tampoco se encuentra dentro de las clasificaciones existentes,
+se recomienda revisar:
 ```
 
 
